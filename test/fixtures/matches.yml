@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  p1: MyString
+  p2: MyString
+  winner: MyString
+  pontuacao: 1
+
+two:
+  p1: MyString
+  p2: MyString
+  winner: MyString
+  pontuacao: 1
